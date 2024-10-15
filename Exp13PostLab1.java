@@ -1,6 +1,6 @@
 /*  
 NAME : HRISHI PATIL
-UIN : 231P080
+UIN : 231P080Exp13PostLab1
 ROLL NO : 26
 EXP13 : Drawing Human Face Using Applet
 */
@@ -8,7 +8,7 @@ import java.applet.Applet;
 import java.awt.Graphics;
 import java.awt.Color;
 
-@SuppressWarnings("removal")
+
 public class Exp13PostLab1 extends Applet {
 public void paint(Graphics g) {
     // Normal Rectangle
